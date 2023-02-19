@@ -19,8 +19,11 @@ Dependencies for the Habtech mods:
 - HabTech Robotics
 
 Habtech and all of the associated mods are made by Benjee10 and can be found here:
+
 -Habtech2: https://github.com/benjee10/HabTech2
+
 -Habtech Robotics: https://github.com/benjee10/htRobotics
+
 -Shared Assets: https://github.com/benjee10/Benjee10_sharedAssets
 
 Known Issues as of 19/02/2023:
